@@ -35,7 +35,7 @@ import javafx.stage.FileChooser;
  * Before beginning to implement, design the structure of your GUI in order to 
  * understand what panels go inside which ones, and what buttons or other components
  * go in which panels.  
- * @author ralexander
+ * 
  *
  */
 //make the main panel's layout be a VBox
