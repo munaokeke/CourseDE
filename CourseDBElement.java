@@ -1,4 +1,4 @@
-package cmsc204Assign4;
+
 /**
  * CourseDBElement consists of five attributes: 
  * the Course ID, the CRN, the number of credits, the room number, and the instructor name.
